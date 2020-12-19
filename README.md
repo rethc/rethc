@@ -6,7 +6,7 @@ I am an aspiring software developer who enjoys developing web applications and s
   
 You can connect with me via [LinkedIn](https://nz.linkedin.com/in/chesda-reth-8427741b3) or follow me on [Twitter](https://twitter.com/ChesdaReth).
 
-- 🔭 I’m currently working on ** Project Talent**, a web application that connects job seekers and employers. It provides functions for employers to interact with job seekers with the goal of creating a better recruitment experience. Built with **React.JS** for client-side code, and **ASP.NET Core** and **C#** for cross-platform server-side code. **MongoDB** for the backend database.
+- 🔭 I’m currently working on **Project Talent**, a web application that connects job seekers and employers. It provides functions for employers to interact with job seekers with the goal of creating a better recruitment experience. Built with **React.JS** for client-side code, and **ASP.NET Core** and **C#** for cross-platform server-side code. **MongoDB** for the backend database.
 
 - 🌱 I’m currently learning React.JS, Linux Scripting.
 
