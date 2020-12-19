@@ -1,4 +1,6 @@
-## Welcome to my Github profile! 
+<p align="center">
+  # Welcome to my Github profile! 
+</p>
 
 <!--
 **rethc/rethc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
