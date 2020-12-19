@@ -2,7 +2,9 @@
 Welcome to my Github profile! 👨‍💻
 </h1>
 <p align="center">
-I am an aspiring software developer who enjoys developing web applications and solving problems. I am always interested in learning new technologies to embrace the ever changing and progressing industry. Have a look around my repositories to see what i'm currently working on. You can connect with me via [LinkedIn](https://nz.linkedin.com/in/chesda-reth-8427741b3 "My LinkedIn Profile") or follow me on [Twitter](https://twitter.com/ChesdaReth "Twitter").
+I am an aspiring software developer who enjoys developing web applications and solving problems. I am always interested in learning new technologies to embrace the ever changing and progressing industry. Have a look around my repositories to see what i'm currently working on. 
+  
+You can connect with me via [LinkedIn](https://nz.linkedin.com/in/chesda-reth-8427741b3) or follow me on [Twitter](https://twitter.com/ChesdaReth).
 
 - 🔭 I’m currently working on Project Talent. A web based application built with **React.js** for client-side code, and **ASP.NET Core** and **C#** for cross-platform server-side code.
 - 🌱 I’m currently learning React.JS, Linux Scripting
