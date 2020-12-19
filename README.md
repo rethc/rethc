@@ -10,7 +10,7 @@ I am an aspiring software developer who enjoys developing web applications and s
 
 - 🌱 I’m currently learning React.JS, Linux Scripting.
 
-- 💪Progress: Day 10 in the #100DaysOfCode challenge!
+- 💪 Day 10 into the #100DaysOfCode challenge!
 
 You can connect with me via [LinkedIn](https://nz.linkedin.com/in/chesda-reth-8427741b3) or follow me on [Twitter](https://twitter.com/ChesdaReth).
 
