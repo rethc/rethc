@@ -5,7 +5,7 @@ Welcome to my Github profile! 👨‍💻
 I am an aspiring software developer who enjoys developing web applications and solving problems. I am always interested in learning new technologies to embrace the ever changing and progressing industry. Feel free to have a look around my repositories to see what I have worked on and my current projects. 
   
   
-- 🔭 I’m currently working on as an intern full-stack developer at an incubator for software start-ups. I am currently working on [Project Talent](https://github.com/rethc/Talent-Standard-Tasks) which is a web application that connects job seekers and employers, with the aim of creating a better recruitment experience.
+- 🔭 I’m currently working on as an intern full stack developer at an incubator for software start-ups. I am currently working on [Project Talent](https://github.com/rethc/Talent-Standard-Tasks) which is a web application that connects job seekers and employers, with the aim of creating a better recruitment experience.
 
 - 🌱 I’m currently learning React.JS, Linux Scripting.
 
