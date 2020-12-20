@@ -2,12 +2,14 @@
 Welcome to my Github profile! 👨‍💻
 </h1>
 <p align="center">
-I am an aspiring software developer who enjoys developing web applications and solving problems. I am always interested in learning new technologies to embrace the ever changing and progressing industry. Feel free to have a look around my repositories to see what I have worked on and my current projects. 
-  
-  
-- 🔭 I’m currently working on as an intern full stack developer at an incubator for software start-ups. I am currently working on [Project Talent](https://github.com/rethc/Talent-Standard-Tasks) which is a web application that connects job seekers and employers, with the aim of creating a better recruitment experience.
+My name is Chesda Reth (he/him), I am an aspiring software developer who enjoys developing web applications and solving problems. I am always interested in learning new technologies to embrace the ever changing and progressing industry.
 
-- 🌱 I’m currently learning React.JS, Linux Scripting.
+In my spare time, i work remotely as an intern full stack developer for a software start-up incubator. I love everything technology and keeping up with latest technology news and programming podcasts. I have a strong background in customer service and programming, and my goal is to now transition into a role that is more closely related to my skillset and where i can continue to build on my programming knowledge.
+  
+  
+- 🔭 I am currently working on [Project Talent](https://github.com/rethc/Talent-Standard-Tasks) which is a web application that connects job seekers and employers, with the aim of creating a better recruitment experience.
+
+- 🌱 I am currently learning React.JS, Linux Scripting.
 
 - 💪 Day 10 into the #100DaysOfCode challenge!
 
