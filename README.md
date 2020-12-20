@@ -2,7 +2,7 @@
 Welcome to my Github profile! 👨‍💻
 </h1>
 <p align="center">
-I am an aspiring software developer who enjoys developing web applications and solving problems. I am always interested in learning new technologies to embrace the ever changing and progressing industry. Have a look around my repositories to see what I have worked on and my current projects. 
+I am an aspiring software developer who enjoys developing web applications and solving problems. I am always interested in learning new technologies to embrace the ever changing and progressing industry. Feel free to have a look around my repositories to see what I have worked on and my current projects. 
   
 
   
