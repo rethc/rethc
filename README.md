@@ -9,7 +9,7 @@ In my spare time, i work remotely as an intern full stack developer for a softwa
   
 - 🔭 I am currently working on [Project Talent](https://github.com/rethc/smooth-brew) which is a web application that connects job seekers and employers, with the aim of creating a better recruitment experience.
 
-- ⚛️ Side project [Smooth Brew Coffee Shop](https://github.com/rethc/smooth-brew) learning how to create an e-commerce website using Gatsby. 
+- ⚛️ Side projects: First release of [Smooth Brew Coffee Shop](https://github.com/rethc/smooth-brew), a responsive, mobile ready Online Coffee shop using Gatsby . 
 
 - 🌱 I am currently learning React.JS, Gatsby, Linux Scripting.
 
