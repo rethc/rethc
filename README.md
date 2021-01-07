@@ -6,7 +6,7 @@ My name is Chesda Reth (he/him), I am an aspiring software developer who enjoys 
 
 In my spare time, i work remotely as an intern full stack developer for a software start-up incubator. I love everything technology and keeping up with latest technology news and programming podcasts. My goal is to now transition into a programming role. 
 
-I am currently on day 17 on the #100DaysOfCode challenge.
+I am currently on day 24 on the #100DaysOfCode challenge.
   
 - 🔭 I am currently working on [Project Talent](https://github.com/rethc/smooth-brew) which is a web application that connects job seekers and employers.
 
