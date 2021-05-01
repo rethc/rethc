@@ -2,13 +2,9 @@
 Welcome to my Github profile! 👨‍💻
 </h1>
 <p align="center">
-My name is Chesda Reth (he/him), I am an aspiring software developer who enjoys developing web applications and solving problems. I am always interested in learning new technologies to embrace the ever changing and progressing industry.
-
-In my spare time, i work remotely as an intern full stack developer for a software start-up incubator. I love everything technology and keeping up with latest technology news and programming podcasts. My goal is to now transition into a programming role. 
-
-I am currently on day 24 on the #100DaysOfCode challenge.
+My name is Chesda Reth (he/him), I am an aspiring software developer who enjoys developing web applications and solving problems. I enjoy solving problems, and I am always interested in learning new technologies in order to keep up with the ever-changing and evolving industry.
   
-- 🔭 I am currently working on [Project Talent](https://github.com/rethc/smooth-brew) which is a web application that connects job seekers and employers.
+- 🔭 I am currently working on Project Talent which is a web application that connects job seekers and employers.
 
 - ⚛️ Side projects: First release of [Smooth Brew Coffee Shop](https://github.com/rethc/smooth-brew), a responsive, mobile ready Online Coffee shop using Gatsby . 
 
