@@ -4,7 +4,7 @@ Welcome to my Github profile! 👨‍💻
 <p align="center">
 My name is Chesda Reth (he/him), I am an aspiring software developer who enjoys developing web applications and solving problems. I enjoy solving problems, and I am always interested in learning new technologies in order to keep up with the ever-changing and evolving industry.
 
-You can connect with me via [LinkedIn](https://nz.linkedin.com/in/chesda-reth-8427741b3) or follow me on [Twitter](https://twitter.com/ChesdaReth).
+You can connect with me via [LinkedIn](https://nz.linkedin.com/in/chesda-reth-8427741b3).
 
 </p>
 <!--
